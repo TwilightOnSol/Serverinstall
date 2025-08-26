@@ -16,28 +16,28 @@ TRACKERS = [
     {
         "name": "DuinoMiner Tracker",
         "url": "https://explorer.duinocoin.com/?search=TwilightFi",
-        "webhook_url": "https://discord.com/api/webhooks/1409684620081106954/ougGF6G5G9zFgJEOLOkKaucIIvn0gAi0YFNA08Sd_LxDqQZ3L98Qol8ObSj_QsawuqhZ",
+        "webhook_url": "not urs lol",
         "color": 0xFF6200,  # Orange
         "heart_emoji": "🧡"
     },
     {
         "name": "MoneroMiner Tracker",
         "url": "https://monero.hashvault.pro/en/",
-        "webhook_url": "https://discord.com/api/webhooks/1409684517312135289/mD8ryWuo5lNA6d-eYs3O4XfW4SwvLkFhe1LJPJLRL-w7WOozerMKv8H7trb9tofXizTB",
+        "webhook_url": "not urs lol",
         "color": 0x00FF00,  # Green
         "heart_emoji": "💚"
     },
     {
         "name": "SoloMinerBTC Tracker",
         "url": "https://web.public-pool.io/#/",
-        "webhook_url": "https://discord.com/api/webhooks/1409684430393704581/xsX79YIjsq7yZFOPxHVq7PmMrZNJJiiSMUm-oX8Xx57DAvJA120QWrfMMUbkQyoBa51h",
+        "webhook_url": "not urs lol",
         "color": 0x0000FF,  # Blue
         "heart_emoji": "💙"
     },
     {
         "name": "ServerUptime Tracker",
         "url": "https://uptimerobot.com/dashboard",
-        "webhook_url": "https://discord.com/api/webhooks/1409685135305085079/WnBuTVuF0iXYPc8ahfuyGK1qBOvhRoH9n214tHkOIm6TvHFhUSMwu_D5ByCYsV3UrJ9l",
+        "webhook_url": "not urs lol",
         "color": 0x800080,  # Purple
         "heart_emoji": "💜"
     }
